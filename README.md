@@ -12,17 +12,17 @@ Um aplicativo de timer Pomodoro desenvolvido em Flutter para ajudar na organiza�
 
 ## 📸 Capturas de Tela
 
-### Tela Principal
-![Timer Principal](assets/screenshots/timer_screen.png)
-*Timer principal com controles de sessão*
+<h3>Tela Principal</h3>
+<img src="assets/screenshots/timer_screen.png" alt="Timer Principal" width="300"/>
+<p><em>Timer principal com controles de sessão</em></p>
 
-### Estatísticas
-![Tela de Estatísticas](assets/screenshots/statistics_screen.png)
-*Visualização de estatísticas e progresso*
+<h3>Estatísticas</h3>
+<img src="assets/screenshots/statistics_screen.png" alt="Tela de Estatísticas" width="300"/>
+<p><em>Visualização de estatísticas e progresso</em></p>
 
-### Configurações
-![Tela de Configurações](assets/screenshots/settings_screen.png)
-*Personalização dos tempos e preferências*
+<h3>Configurações</h3>
+<img src="assets/screenshots/settings_screen.png" alt="Tela de Configurações" width="300"/>
+<p><em>Personalização dos tempos e preferências</em></p>
 
 ## ⚙️ Instalação
 
